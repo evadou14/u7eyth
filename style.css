@@ -1,0 +1,27 @@
+#video{
+    width: 100%;
+    height:500px;
+    border: none;
+}
+#school-chapel{
+    width: 800px;
+    height: 600px;
+}
+#school-bluetop{
+    width: 800px;
+    height: 600px;
+}
+#Mission_Statement i{
+    float: right;
+}
+#Mission_Statement{
+    font-size: 25px;
+    border-radius: 30px;
+}
+#Educational_Philosophy i{
+    float: right;
+}
+#Educational_Philosophy{
+    font-size: 25px;
+    border-radius: 30px;
+}
